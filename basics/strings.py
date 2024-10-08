@@ -76,5 +76,3 @@ a=int(s)
 #int to string
 s=str(a)
 
-#list to tuple
-t=tuple(l)

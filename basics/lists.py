@@ -38,3 +38,5 @@ l=[x for x in range(0,101) if x%3==0]	#returns a list
 
 l=[s.replace(".hpp",".h") for s in list1]
 
+#list to tuple
+t=tuple(l)

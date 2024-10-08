@@ -43,3 +43,16 @@ def info(listOfTuples):
 peoples=[("soubhik","soubhik@gmail.com"),("salim","ss2121@jgec.ac.in"),("Megha","megha@cse.jgec.ac.in")]
 
 print(info(peoples))
+
+# A tuple
+my_tuple = (1, 2, 3, 4)
+
+# Converting tuple to list
+my_list = list(my_tuple)
+
+# Output the result
+print("Tuple:", my_tuple)
+print("List:", my_list)
+
+#list to tuple
+t=tuple(l)
